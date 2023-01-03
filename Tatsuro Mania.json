@@ -4,5 +4,16 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Tatsuro Mania no.0",
+      "volume": "0",
+      "last_updated": "1672766964",
+      "groups": {
+        "": [
+          "https://imgur.com/a/lSNvZIp"
+        ]
+      }
+    }
+  }
 }
