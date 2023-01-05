@@ -1,8 +1,8 @@
 {
   "title": "Tour Pamphlet",
   "description": "",
-  "artist": "",
-  "author": "",
+  "artist": "Tatsuro Yamashita",
+  "author": "Tatsuro Yamashita",
   "cover": "",
   "chapters": {
     "1983": {
@@ -84,6 +84,83 @@
           "https://imgur.com/NIjr6JN.jpg",
           "https://imgur.com/a0UsFHc.jpg",
           "https://imgur.com/f5qqgQn.jpg"
+        ]
+      }
+    },
+    "1986": {
+      "title": "PERFORMANCE '86",
+      "volume": "",
+      "last_updated": "1672936465",
+      "groups": {
+        "": [
+          "https://imgur.com/M3v3ezl.jpg",
+          "https://imgur.com/BIKfh4H.jpg",
+          "https://imgur.com/KoImTca.jpg",
+          "https://imgur.com/707lOmD.jpg",
+          "https://imgur.com/7jooukX.jpg",
+          "https://imgur.com/kumiWmH.jpg",
+          "https://imgur.com/eLYzQ3E.jpg",
+          "https://imgur.com/MxwKtkx.jpg",
+          "https://imgur.com/GIlkJ3E.jpg",
+          "https://imgur.com/3na4GcA.jpg",
+          "https://imgur.com/7WaDL0f.jpg",
+          "https://imgur.com/9Jn5x3n.jpg",
+          "https://imgur.com/bRlPaa2.jpg",
+          "https://imgur.com/tMTmQ64.jpg",
+          "https://imgur.com/lNBsBlE.jpg",
+          "https://imgur.com/55CeCY7.jpg",
+          "https://imgur.com/REPex2O.jpg",
+          "https://imgur.com/1R4Etg9.jpg",
+          "https://imgur.com/9nSwuYj.jpg",
+          "https://imgur.com/9XoSrq6.jpg",
+          "https://imgur.com/C67dCjc.jpg",
+          "https://imgur.com/fssLJOg.jpg",
+          "https://imgur.com/9OjTpLQ.jpg",
+          "https://imgur.com/gqbFGnV.jpg",
+          "https://imgur.com/oXYx0HU.jpg",
+          "https://imgur.com/pAzFgoo.jpg",
+          "https://imgur.com/9lcWON3.jpg",
+          "https://imgur.com/wKHorkT.jpg",
+          "https://imgur.com/fHh9XNk.jpg",
+          "https://imgur.com/jVLOIfn.jpg",
+          "https://imgur.com/1nHBRjM.jpg",
+          "https://imgur.com/KGCO1mS.jpg",
+          "https://imgur.com/GH4WHXG.jpg",
+          "https://imgur.com/p3cMHM2.jpg",
+          "https://imgur.com/QqYlfoi.jpg",
+          "https://imgur.com/RutjDPR.jpg"
+        ]
+      }
+    },
+    "1988": {
+      "title": "PERFORMANCE '88-'89",
+      "volume": "",
+      "last_updated": "1672936511",
+      "groups": {
+        "": [
+          "https://imgur.com/GLrVbbe",
+          "https://imgur.com/82c7XSX",
+          "https://imgur.com/Aokolcm",
+          "https://imgur.com/j1npxVZ",
+          "https://imgur.com/UUoFf1c",
+          "https://imgur.com/S2kpFyn",
+          "https://imgur.com/N9r4332",
+          "https://imgur.com/LqfesAk",
+          "https://imgur.com/b1VNxAZ",
+          "https://imgur.com/4ZJDrOr",
+          "https://imgur.com/D1yjYwz",
+          "https://imgur.com/EEUA0dM",
+          ""
+        ]
+      }
+    },
+    "1991": {
+      "title": "PERFORMANCE '91-'92",
+      "volume": "",
+      "last_updated": "1672936530",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
